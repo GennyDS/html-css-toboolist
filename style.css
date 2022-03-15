@@ -1,0 +1,61 @@
+* {
+box-sizing: border-box;
+}
+
+
+#logo {
+    height:90px;
+    vertical-align: middle;
+    
+}
+
+.logobox {
+   
+    background-color:white;
+
+}
+.scrittacentro{
+    line-height: 90px;
+    display: inline-block
+    
+}
+
+
+.boxheader{
+    border-bottom: 1px solid  rgb(199, 189, 189) ;
+    margin-left: 20% ;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-right: 20%;
+    padding-left: 30px;
+    padding-top: 1%;
+    background-color: rgb(255, 255, 255);
+   
+}
+
+.badge{
+    padding-top: 1%;
+    text-align: center;
+    display: inline-block;
+    height: 30px;
+    width: 100px;
+    border: 1px solid rgb(150, 149, 149);
+    border-radius:15%;
+    background-color: aqua;
+
+     }
+
+    .boxcorpo{ margin-left: 20% ;
+        margin-top: 5%;
+        margin-bottom: 2%;
+        margin-right: 20%;
+        padding-left: 30px;
+      background-color: rgb(255, 255, 255);
+       
+    }
+    
+    .boxHeC
+    {
+        background-color: white;
+    }
+   
